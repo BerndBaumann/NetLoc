@@ -1,0 +1,35 @@
+Bill of Material for 
+On 04.08.2017 at 13:15:48
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.10uF              CAP 0402/1005   15    C11, C12, C13, C14, C15, C16 CAP CER 0.1UF 16V X5R 0402 
+                                           C17, C18, C19, C20, C23, C25
+                                           C26, C27, C29
+ 0732511150          MOLEX SD-73251-115    1    SMA                          CONN SMA JACK 50 OHM EDGE MNT 
+ 1.2pF               CAP 0402/1005    1    C6                           CAP CER 1.2PF 50V NP0 0402 
+ 100                 RES 0402/1005    1    R7                           RES SMD 100 OHM 1% 1/10W 0402 
+ 10000pF             CAP 0402/1005    1    C22                          CAP CER 10000PF 25V X7R 0402 
+ 100k                RES 0402/1005    1    R40                          RES SMD 100K OHM 1% 1/10W 0402 
+ 10pF                CAP 0402/1005    1    C30                          CAP CER 10PF 50V NP0 0402 
+ 11K 1%              RESC0603(1608)_L    1    R3                           11K 0.1W 1% 0603 (1608 Metric)  SMD 
+ 12pF                CAP 0402/1005    2    C9, C10                      CAP CER 12PF 50V NP0 0402 
+ 16k                 RES 0402/1005    1    R4                           RES SMD 16K OHM 1% 1/10W 0402 
+ 18pF                CAP 0402/1005    1    C8                           CAP CER 18PF 50V NP0 0402 
+ 270                 RES 0402/1005    1    R5                           RES SMD 270 OHM 1% 1/10W 0402 
+ 27pF                CAPC0402(1005)60_L    1    C5                           CAP 27pF 50V ±2% 0402 (1005 Metric) Thickness 0.6mm SMD 
+ 330pF               CAP 0402/1005    2    C28, C31                     CAP CER 330PF 50V NP0 0402 
+ 38.4MHz             EPSON TSX-3225    1    Y1                           CRYSTAL 38.4000MHZ 8.5PF SMD 
+ 4.7uF               CAPC0603(1608)100_M    2    C1, C24                      CAP 4.7uF 6.3V ±10% 0603 (1608 Metric) Thickness 1mm SMD 
+ 47uF                CAP 0805/2012    1    C21                          CAP CER 47UF 6.3V X5R 0805 
+ 8.5pF               CAPC0402(1005)60_L    2    C3, C4                       CAP 8.5pF 50V ±0.05pF 0402 (1005 Metric) Thickness 0.6mm SMD 
+ 81-LXDC2HL18A-052   PCBComponent_1    1    U2                                                
+ 820pF               CAP 0402/1005    1    C7                           CAP CER 820PF 50V NP0 0402 
+ analog              HDR1X6           1    CN8                          Header, 6-Pin        
+ CurrentProbe        HDR1X2H          1    P1                           Header, 2-Pin, Right Angle 
+ digital             HDR1X10          1    CN5                          Header, 10-Pin       
+ digital             HDR1X8           1    CN9                          Header, 8-Pin        
+ DW1000 IC           QFN-48           1    U1                           UWB DW1000           
+ HHM1595A1           HHM1595A1        1    T1                           HHM1595A1 3000MHz - 8000MHz 0805 
+ LMK107BJ106MALTD    CAPC1608X100X35ML20T25    1    C2                           High Value Multilayer Ceramic Capacitor, 10 uF, +/- 20%, 10 V, -55 to 85 degC, 0603 (1608 Metric), RoHS, Tape and Reel 
+ POWER               HDR1X8           1    CN6                          Header, 8-Pin        

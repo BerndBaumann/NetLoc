@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\bgwh\Documents\SVN\extension_shield_dw1000\hardware\PCB2.PcbDoc
+RuleKind=Width|RuleName=Width_2|Scope=Board|Minimum=21.06
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

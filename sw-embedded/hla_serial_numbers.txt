@@ -1,0 +1,8 @@
+# read serial numbers using
+# $lsusb -v | grep iSerial
+#
+# optional for openocd as a parameter ( -c "hla_serial "iSerial-number"")
+
+NODEA=0674FF545152717267254757
+NODED=066AFF544854677567172741
+NODE6=0668FF544854677567174646

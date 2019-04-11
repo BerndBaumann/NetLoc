@@ -1,0 +1,16 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\extension_shield_dw1000\hardware\gerber_files\cam.drl
+Format: 2.3
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.9000		16
+ 2 		1.0160		2
+ 3 		1.0200		3
+ 4 		0.9000		34
+ 5 		0.3000		144
